@@ -3,7 +3,8 @@
   Hello, my name is Jake Sheehan and I am a recent graduate of the Computer Science program at Southern New Hampshire University.
 
 # Project One: OpenGL Graphics Rendering Engine 
-### [VIEW ORIGINAL ON GITHUB](https://github.com/Jake-Sheehan/rendering_engine)
+### [VIEW CODE REVIEW ON YOUTUBE](https://www.youtube.com/watch?v=MwRLEhmv-zg)
+### [VIEW ORIGINAL ON GITHUB](https://github.com/Jake-Sheehan/rendering_engine_original)
 ### [VIEW ENHANCEMENT ON GITHUB](https://github.com/Jake-Sheehan/rendering_engine)
   
 ### What is it?
