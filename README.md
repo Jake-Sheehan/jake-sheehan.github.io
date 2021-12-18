@@ -40,7 +40,7 @@
 
 # Project Three: Cloud-Based Contacts App
 
-### [VIEW ORIGINAL ON GITHUB](https://github.com/Jake-Sheehan/Contacts)
+### [VIEW ORIGINAL ON GITHUB](https://github.com/Jake-Sheehan/Contacts_original)
 ### [VIEW ENHANCEMENT ON GITHUB](https://github.com/Jake-Sheehan/Contacts)
 
 ### What is it?
