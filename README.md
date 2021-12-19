@@ -23,6 +23,7 @@
 
 # Project Two: Merkle Tree Implementation in C++
 
+### [VIEW CODE REVIEW ON YOUTUBE](https://www.youtube.com/watch?v=ZfkT7gE-Fx0)
 ### [VIEW ORIGINAL ON GITHUB](https://github.com/Jake-Sheehan/BinaryTree)
 ### [VIEW ENHANCEMENT ON GITHUB](https://github.com/Jake-Sheehan/MerkleTree)
 
