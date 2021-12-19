@@ -1,6 +1,13 @@
 # Introduction
 
-  Hello, my name is Jake Sheehan and I am a recent graduate of the Computer Science program at Southern New Hampshire University.
+  Hello, my name is Jake Sheehan and I am a recent graduate of the Computer Science program at Southern New Hampshire University. I have a passion for FinTech, especially emerging blockchain solutions. FinTech and blockchain technologies have the potential to change the change the world by bringing financial services to the 1.7 billion unbanked adults around the world, spurring economic development and helping to alleviate poverty in traditionally hard-to-reach parts of the globe. My hope is that by contributing to this technology as a developer, I can help to advance these goals by developing new, innovative technologies that bring economic freedom to everyone.
+
+  This ePortfolio is intended to showcase my skills related to my career goals. To do so, I have selected three projects that I worked on throughout my time at Southern New Hampshire University. I conducted a code review of the assignments to detail some of the strengths and weaknesses in the code base. Then, I designed enhancements to these projects that will improve on the weaknesses, and tailor the project toward my career goals.
+
+  The three projects are aligned with three topics: software engineering and design, data structures and algorithms, and databases. In the category of software engineering and design, I chose to further develop an OpenGL-based graphics rendering engine. This was one of the larger, more complex projects I worked on as a student, and it required careful architecture design. To showcase my skills in data structures and algorithms design, I chose to convert a binary tree I wrote for one of my classes into a Merkle tree. Merkle trees are commonly used in blockchain software, with the root hash of the tree representing a “block” on the blockchain. Finally, to demonstrate my ability to work with databases, I converted a small SQL-based contact storage application into a full graphical application with a cloud-hosted non-relational database.
+
+  These projects cover a wide array of topics and represent a culmination of the education I received at Sothern New Hampshire University. This long journey would not have been possible without collaborating with fellow students and my professors to produce the best possible Computer Science artifacts. I would like to thank everyone that helped me along the way and acknowledge the teamwork that produced these results.
+
 
 # Project One: OpenGL Graphics Rendering Engine 
 ### [VIEW CODE REVIEW ON YOUTUBE](https://www.youtube.com/watch?v=MwRLEhmv-zg)
